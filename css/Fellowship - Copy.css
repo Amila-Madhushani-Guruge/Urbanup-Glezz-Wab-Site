@@ -1,0 +1,27 @@
+#form{
+	background-image: url(Images/fellowshipback.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.card-body{
+	background-color: transparent;
+	
+}
+.button1{
+	background-color: rgb(34, 75, 12);
+	color: white;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 30px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 14px;
+
+}
+
+.button1:hover{
+	background-color: rgb(14, 36, 49) ;
+}
